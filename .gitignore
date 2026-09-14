@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs generados por el notebook
+submission_*.csv
+
+# OS
+.DS_Store
